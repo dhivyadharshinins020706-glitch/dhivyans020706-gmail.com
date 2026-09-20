@@ -1,5 +1,5 @@
 # dhivyans020706-gmail.com
-Hi 👋, I'm Dhivya
+Hi 👋, I'm Dhivyadharshini
 
 🎓 Final Year Computer Science Engineering Student
 

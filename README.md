@@ -1,2 +1,15 @@
 # dhivyans020706-gmail.com
-Final-year CSE student | AI &amp; ML Enthusiast | Python | Cloud Computing | Web Development | Always Learning &amp; Building 🚀
+Hi 👋, I'm Dhivya
+
+🎓 Final Year Computer Science Engineering Student
+
+💻 Interested in:
+
+- Python
+- AI & Machine Learning
+- Cloud Computing
+- Web Development
+
+🌱 Currently learning and building new projects.
+
+🚀 Passionate about learning new technologies and improving my skills.
